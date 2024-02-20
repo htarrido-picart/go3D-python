@@ -1,4 +1,4 @@
-# GO 3d 
+# GO 3D
 The game of Go in 3D.
 
 
