@@ -2,6 +2,8 @@
 
 Welcome to the 3D Go Game repository! This project is an innovative take on the ancient board game Go, extending the traditional 2D board into a three-dimensional space. This new dimension adds a fresh layer of strategy and complexity, making it an exciting variant for both new players and seasoned Go enthusiasts.
 
+![A 3x3x3 game](/fig/game_3x3x3.png	“3x3x3”)
+
 ## Getting Started
 
 To start playing 3D Go on your local machine, you have two main options: running the game directly in your terminal or using a Jupyter Notebook. Both methods provide an interactive experience, allowing you to play against another player or challenge ChatGPT in a match of wits and strategy.
