@@ -1,0 +1,5 @@
+numpy
+openai
+ipython
+plotly
+jupyterlab
