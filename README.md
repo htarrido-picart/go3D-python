@@ -24,7 +24,9 @@ I highly recommend setting up an environment following the requirements.txt file
 3. Make sure you have an environment with the libraries installed.
 3. Run the game by executing:
 
-‘python Go3D.py’
+```python
+python Go3D.py
+```
 
 ### Running the Game in Jupyter Notebook
 
@@ -48,6 +50,7 @@ You can set these environment variables in your terminal session or add them to 
 ```bash
 export OPENAI_API_KEY='your_api_key_here'
 export ASSISTANT_ID='your_assistant_id_here'
+```
 
 ### 1-Player mode(against ChatGPT) or 2-Player mode
 
