@@ -2,7 +2,7 @@
 
 Welcome to the 3D Go Game repository! This project is an innovative take on the ancient board game Go, extending the traditional 2D board into a three-dimensional space. This new dimension adds a fresh layer of strategy and complexity, making it an exciting variant for both new players and seasoned Go enthusiasts.
 
-![A 3x3x3 game](/fig/game_3x3x3.png	“3x3x3”)
+<img src="https://github.com/htarrido-picart/go3D-python/blob/main/fig/game_3x3x3.png" alt="A 3x3x3 game" width="500" height="auto">
 
 ## Getting Started
 
